@@ -397,7 +397,7 @@ Programın hata durumlarıyla karşılaştığında nasıl davranacağını beli
 
 ## 🤝 Katkıda Bulunanlar
 
-- **[@sungor](https://github.com/sungor)** 
+- **[@yalives7](https://github.com/yalives7)** 
 - **[@msngl0234](https://github.com/msngl0234)** 
 
 
