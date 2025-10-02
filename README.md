@@ -1,6 +1,6 @@
 # Minishell 🐚
 
-**42 Kocaeli** ortamında geliştirilen tam fonksiyonel bir Unix shell implementasyonu. Bu proje, bash benzeri bir kabuk uygulaması oluşturarak sistem programlama, süreç yönetimi ve Unix sistemlerinin derinlemesine anlaşılmasını hedefler.
+**42 Türkiye** için geliştirilen tam fonksiyonel bir Unix shell implementasyonu. Bu proje, bash benzeri bir kabuk uygulaması oluşturarak sistem programlama, süreç yönetimi ve Unix sistemlerinin derinlemesine anlaşılmasını hedefler.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Language](https://img.shields.io/badge/language-C-blue.svg)
